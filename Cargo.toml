@@ -1,0 +1,12 @@
+[package]
+
+name = "nblessings"
+version = "0.0.1"
+authors = ["Jacob ZAK <jagu.sayan@gmail.com>", "Michael Zapata <mzapata@student.42.fr>"]
+
+[dependencies]
+
+bitflags = "0.1"
+libc = "0.1.6"
+unicode-width = "0.1.1"
+unicode-segmentation = "0.1.0"
